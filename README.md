@@ -54,6 +54,7 @@ DELETE /books/{id} - удалить книгу.
 Если у вас возникли вопросы или предложения по проекту, свяжитесь со мной через:
 
 Email: [nurbekulyzhandos@gmail.com]
+
 LinkedIn: [https://www.linkedin.com/in/nurbekuly-zhandos-560b6b291/]
 
 
